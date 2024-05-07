@@ -1,0 +1,7 @@
+1. Go to https://drive.google.com/file/d/13EB7DP1zZ7N3ik2aDyHJuoIeqxAx8OXL/view?usp=drive_link
+
+2. After the download is complete, unzip the file.
+
+3. Within the unzipped folder, there is a ‘PetImages’ folder. Copy the entire ‘PetImages’ folder into the ‘Dataset’ folder in your project folder. 
+   The folder structure should be ‘Dataset/PetImages/’
+
